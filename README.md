@@ -6,5 +6,5 @@ These are just training codes that are done by me on Google Colab. I have worked
 
 At the end of running the code on colab , save the model with .h5 .That must keep in mind Like; model.save("anyName.h5")
 
-streamlit
+# streamlit
 I will upload the steamlit codes for concern datasets from kaggle and I will apply the following transfer learning model.
