@@ -8,4 +8,4 @@ Like;
 model.save("anyName.h5")
 
 # streamlit
-I will upload the steamlit codes for concern datasets from kaggle and I will apply the following transfer learning model. 
+I will upload the steamlit codes for concern datasets of kaggle and I will apply the following transfer learning model. 
