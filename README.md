@@ -14,7 +14,7 @@ You have the run the codes first, that are present in the AI and All_Models_Kera
 after that , at the end of the code you should save the model with .h5 extension.
 Like, model.save("anyName.h5")
 
-# Furthermore , download the save model where the streamlit codes are present.
+# Furthermore , download the saved model where the streamlit codes are present.
 Then open the python code whiich is saved with .py extension.
 
 After that do the following as I did in the below in coding...
