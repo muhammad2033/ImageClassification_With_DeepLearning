@@ -8,7 +8,7 @@ At the end of running the code on colab , save the model with .h5 .That must kee
 
 # streamlit
 I have uploaded the steamlit codes for concern datasets from kaggle on the following transfer learning models.
-There are few folders and in those folders there are streamlit codes and the related pictures of the concern predicted dataset.
+There are few folders and in those folders, there are streamlit codes and the related pictures of the concern predicted datasets.
 # what you have to do?
 You have the run the codes first, that are present in the AI and All_Models_Keras folders.
 after that , at the end of the code you should save the model with .h5 extension.
